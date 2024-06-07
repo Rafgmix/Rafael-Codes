@@ -1,0 +1,35 @@
+<html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <style>
+            body {background:linear-gradient(130deg,lime,pink, yellow); color: white; text-align: center; }
+            h1{font-size: 45px;}
+            i{font-size: 25px;}
+            h2{ font-size: 30px; border: 2px solid white; padding: 10%; margin: 12%;  }
+            footer{background-color: black; padding: 15px; background-size: 10px 10px; background-image: radial-gradient(purple 1px, black 1px);}
+            button{background-color: black; padding: 15px; background-size: 10px 10px; background-image: radial-gradient(blue 1px, aquamarine 1px);}
+          </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Raphael Afoakwa</title>
+    </head>
+    <body>
+      <h1 id="top">Raphael Afoakwa</h1>
+            <img src="0_JS261052906.jpg" width="500" length"500" alt="Raphael Afoakwa">
+            <h2>
+            Motivation:
+              <br>
+              <i>
+                I want to learn to code because it is interesting.
+              </i>
+            </h2>
+            <h3>Launching Soon...</h3>
+              <footer>
+                &copy; 2024 Raphael Afoakwa
+              </footer>
+              <a href="Mainwebsite2.html">Contact Raphael Afoakwa</a>
+              <hr>
+              <a href="#top">Top of page</a>
+    </body>
+    </html>
